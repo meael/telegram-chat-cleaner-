@@ -1,0 +1,5 @@
+{
+  "name": "Telegram to NotebookLM Cleaner",
+  "description": "Clean, anonymize, and format Telegram chat exports for NotebookLM and other LLMs.",
+  "requestFramePermissions": []
+}
